@@ -21,7 +21,7 @@ body {
     background-image: linear-gradient( 
         rgba(0, 0, 0, 0.7),
         rgba(0, 0, 0, 0.7)),
-        url(../imagenes/numero1.jpg);
+        url(../img/numero1.jpg);
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
@@ -166,7 +166,7 @@ body {
     background-image: linear-gradient(
         rgba(0, 0, 0, 0.7),
         rgba(0, 0, 0, 0.7)
-    ), url(../imagenes/niño.jpg);
+    ), url(../img/niño.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
